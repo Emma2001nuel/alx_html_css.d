@@ -1,0 +1,9 @@
+body {
+    color: brown;
+    background: local;
+    border: 0cap;
+}
+article {
+    border: 1px solid black;
+    height: 50vh;
+}
